@@ -1,0 +1,162 @@
+[
+  {
+    "id": "AL-001",
+    "title": "Не запускается обучение ансамбля",
+    "priority": "critical",
+    "status": "Resolved",
+    "resolution_time": "64 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "AL-002",
+    "title": "Ошибка чтения экспериментального датасета",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "93 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-003",
+    "title": "GPU недоступен в вычислительном узле",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "122 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-004",
+    "title": "Превышен бюджет разметки",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "151 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-005",
+    "title": "Некорректные uncertainty-score",
+    "priority": "medium",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-006",
+    "title": "Ошибка записи checkpoint",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "209 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-007",
+    "title": "Различаются метрики двух запусков",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "238 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-008",
+    "title": "Не обновляется пул неразмеченных точек",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "267 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-009",
+    "title": "Неверный формат метаданных эксперимента",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "296 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "AL-010",
+    "title": "Завис процесс генерации кандидатов",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-011",
+    "title": "Ошибка загрузки модели суррогата",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "354 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-012",
+    "title": "Отсутствует доступ к MLflow",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "383 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-013",
+    "title": "Недостаточно памяти GPU",
+    "priority": "critical",
+    "status": "Resolved",
+    "resolution_time": "412 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "AL-014",
+    "title": "Не рассчитывается expected improvement",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "441 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-015",
+    "title": "Сбой API сервиса аннотаций",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-016",
+    "title": "Пропали метки в обучающей выборке",
+    "priority": "high",
+    "status": "Resolved",
+    "resolution_time": "499 мин",
+    "sla_breached": "Да"
+  },
+  {
+    "id": "AL-017",
+    "title": "Не проходит валидация симулятора",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "18 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-018",
+    "title": "Нарушен порядок версий датасета",
+    "priority": "low",
+    "status": "Resolved",
+    "resolution_time": "47 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-019",
+    "title": "Запрос на расширение квоты вычислений",
+    "priority": "medium",
+    "status": "Resolved",
+    "resolution_time": "76 мин",
+    "sla_breached": "Нет"
+  },
+  {
+    "id": "AL-020",
+    "title": "Неверный seed воспроизводимости",
+    "priority": "low",
+    "status": "In Progress",
+    "resolution_time": "—",
+    "sla_breached": "Нет"
+  }
+]
